@@ -1,7 +1,7 @@
-자연어처리(NLP)는 사람이 내뱉은 비정형적 자연어를 컴퓨터가 이해할 수 있는 정형적 언어 데이터로 바꾸는 기술이다. 컴퓨터가 문장 의도를 이해하고 말한 사람 의도를 정확히 파악할 수 있도록 해주는 과정이다. 
+Natural Language Processing (NLP) is a technology that converts unstructured natural language spoken by humans into structured language data understandable by computers. This process enables computers to comprehend the intent of sentences and accurately grasp the speaker's intentions.
 
-AI 서비스에서 NLP는 중요한 부분을 차지한다. 컴퓨터가 자연어를 문법상 의미 최소 단위인 형태소로 분해(파싱)해 언어학적 구조를 패턴화, 전체 의미를 파악하도록 해준다. 하나의 품사에 여러 모호성을 해소하는 품사 태깅, 불용어 제거, 기계번역, 대화시스템에 이르기까지 모든 과업을 수행한다. 
+In AI services, NLP plays a crucial role. It allows computers to parse natural language into morphemes, the smallest grammatical units, patterning linguistic structures to understand the overall meaning. NLP covers various tasks, including Part-of-Speech (POS) tagging, which resolves ambiguities within grammatical categories, stop-word removal, machine translation, and dialogue systems.
 
-최근에는 딥러닝 기반 NLP 연구가 늘고 있다. 단어 단위가 아닌 문장 전체 맥락에서 의미를 추론할 수 있게 됐다. 딥러닝을 적용하기 위해서는 말뭉치(코퍼스, Corpus)라는 학습용 언어 데이터를 필수로 확보해야 한다. 
+Recently, deep learning-based NLP research has been growing. It has become possible to infer meaning from the entire context of sentences rather than just individual words. To apply deep learning, it's essential to obtain a corpus?linguistic data used for training.
 
-NLP를 기반으로 한 음성인식 기술은 대용량 음성 데이터를 저장하고 실시간으로 처리 가능한 네트워크와 컴퓨팅 기술로 크게 진화하고 있다. 음성인식 기술 핵심은 상대방과 대화를 계속 이어가는 것이다. 
+Speech recognition technology based on NLP is rapidly evolving due to advancements in network and computing technologies capable of storing large-scale voice data and processing it in real-time. The core of speech recognition technology is maintaining continuous dialogue with the interlocutor.
